@@ -1,0 +1,5 @@
+ ./server/index.js
+ app.get  === Fazer requisições pegar valores
+ app.post === Enviar fazer solicitações
+ app.delete === deletar
+ app.put === editar arquivos
